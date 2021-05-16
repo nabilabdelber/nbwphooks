@@ -1,0 +1,14 @@
+{
+    "name": "nbwphooks/wphooks",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nabil Abdelber",
+            "email": "n.abdelber@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"WpHooks\\": "src"}
+    },
+	"minimum-stability": "stable"  
+}
