@@ -1,6 +1,7 @@
 {
     "name": "nbwphooks/wphooks",
     "type": "library",
+     "license": "MIT",
     "authors": [
         {
             "name": "Nabil Abdelber",
