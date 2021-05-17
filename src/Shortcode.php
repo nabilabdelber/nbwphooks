@@ -25,8 +25,8 @@ Abstract Class SHORTCODE
 	{ 	
 		$class = Self::getClassName();
 		$action = new $class;
-		$action->run();
-		die();
+		return $action->run();
+		
 	}
 
 	public static function listen($public = TRUE)
